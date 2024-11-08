@@ -1,4 +1,6 @@
-# React + Vite
+#
+
+Preview site = https://salmanulfarisvnb.github.io/redux_crud_app/
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
